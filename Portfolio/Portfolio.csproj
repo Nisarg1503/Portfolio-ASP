@@ -72,6 +72,8 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Assets\Images\myimg.jpg" />
+    <Content Include="Assets\Images\project1.jpg" />
+    <Content Include="Assets\Images\project2.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\App.css" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -86,6 +88,7 @@
     <Content Include="Default.aspx" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Project.aspx" />
     <Content Include="User_Controls\Jumbotron.ascx" />
     <Content Include="User_Controls\Navbar.ascx" />
     <Content Include="packages.config" />
@@ -142,6 +145,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Project.aspx.cs">
+      <DependentUpon>Project.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Project.aspx.designer.cs">
+      <DependentUpon>Project.aspx</DependentUpon>
     </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
