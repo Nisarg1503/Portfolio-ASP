@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Navbar.ascx.cs" Inherits="Portfolio.Navbar" %>
- <link href="~/Content/app.css" rel="stylesheet" />
+ <link href="../Content/App.css" rel="stylesheet" />
 <nav class="blog-nav" role="navigation">
 <div class="blog-masthead">
     <div class="container">
