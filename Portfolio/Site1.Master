@@ -1,5 +1,5 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="Portfolio.Site1" %>
-<%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Portfolio.Site11" %>
+
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
@@ -31,14 +31,6 @@
     <script src="Scripts/jquery-2.2.3.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/app.js"></script>
-     <ul class="blog-nav">
-            <div class="navbar-text pull-left">
-                <p>Developed by Mansi Patel</p>
-            </div>
-            <div class="navbar-text pull-right">
-                <a href="https://github.com/mansipatel108">
-                    <i class="fa fa-github fa-2x"></i></a>
-                </div>
-        </ul>
+   
 </body>
 </html>
