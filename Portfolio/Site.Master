@@ -1,5 +1,12 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="Portfolio.Site1" %>
 <%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
+
+<%--
+File   : Site.Master
+Author : Nisarg Patel 
+Website: http://portfolio-nisarg.azurewebsites.net/
+Description:  This is my Site Master page which contains Navbar and Footer for all pages. --%>
+
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">

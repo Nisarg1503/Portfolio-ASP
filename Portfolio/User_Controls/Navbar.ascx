@@ -1,5 +1,10 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Navbar.ascx.cs" Inherits="Portfolio.Navbar" %>
- <link href="../Content/App.css" rel="stylesheet" />
+<%--
+File   : Navbar.ascx
+Author : Nisarg Patel 
+Website: http://portfolio-nisarg.azurewebsites.net/
+Description:  This page contains My Navbar with CSS. --%>
+<link href="../Content/App.css" rel="stylesheet" />
 <nav class="blog-nav" role="navigation">
 <div class="blog-masthead">
     <div class="container">

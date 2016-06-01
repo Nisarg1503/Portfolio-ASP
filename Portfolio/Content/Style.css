@@ -6,21 +6,21 @@
 
 h1 {
     color: #0C6140;
-    margin-left: 100px;
+    margin-left: 150px;
     font-family: 'Arvo', serif;
-    font-size: 4em;
-        font-weight: 50;
+    font-size: x-large;
+        font-weight: 100;
     position: relative;
     margin-top: 30%;
     letter-spacing: 8px;
 
 } 
-h3{
+    h3{
     color: #143269;
-    margin-left: 100px;
+    margin-left: 150px;
     font-family: 'Abel', sans-serif;
-    font-size: 2em;
-    font-weight: 200;
+    font-size: large;
+    font-weight: 400;
     position: relative;
     margin-top: 1%;
     letter-spacing: 7px;

@@ -1,12 +1,21 @@
 ﻿<%@ Page Title="Contact Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="Portfolio.Contact" %>
 
+<%--
+File   : Contact.aspx
+Author : Nisarg Patel 
+Website: http://portfolio-nisarg.azurewebsites.net/
+Description:  This page creates a contact form with some field check and small window with my personal information. --%>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <link href="Content/PageStyle.css" rel="stylesheet" />
     <div class="container">
         <div class="row">
-            <div class="col-md-offset-4 col-md-8">
+            <div class="row text-center">
+            <div class="col-lg-10 col-lg-offset-1">
                 <h1>Contact Us</h1>
+                <hr class="small">
             </div>
+                </div>
         </div>
         <div class="row">
             <div class="col-md-4">

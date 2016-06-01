@@ -1,4 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Project.aspx.cs" Inherits="Portfolio.Project" %>
+
+<%--
+File   : Project.aspx
+Author : Nisarg Patel 
+Website: http://portfolio-nisarg.azurewebsites.net/
+Description:  This page is showing my past projects. --%>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
      <link href="Content/PageStyle.css" rel="stylesheet" />
     <section id="projects" class="projects">

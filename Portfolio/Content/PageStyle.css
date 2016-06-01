@@ -22,3 +22,18 @@
      img {
     width: 30%;
     }
+
+     h1 {
+    padding-top: 30px;
+    color: #5a5858;
+    font-weight: 200;
+    letter-spacing: 4px;
+    margin: auto;
+    text-align: justify;
+    font-size: 1.3em;
+    width: 70%;
+    position: relative;
+     }
+     Label {
+         color: #5a5858;
+     }
