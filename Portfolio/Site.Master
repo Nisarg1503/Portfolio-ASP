@@ -40,7 +40,7 @@ Description:  This is my Site Master page which contains Navbar and Footer for a
     <script src="Scripts/app.js"></script>
      <ul class="navbar-fixed-bottom">
             <div class="navbar-text pull-left">
-                <p>Developed by Nisarg Patel</p>
+                <p id="p1">Developed by Nisarg Patel</p>
             </div>
             <div class="navbar-text pull-right">
                 <a href="https://github.com/Nisarg1503"><i class="fa fa-github-square fa-2x"></i></a>

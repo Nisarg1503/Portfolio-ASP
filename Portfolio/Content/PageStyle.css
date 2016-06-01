@@ -41,3 +41,7 @@
          color: #5a5858;
          font-size: 0.9em;
      }
+     span {
+         color: rgba(0,0,0,.1);
+     }
+  
