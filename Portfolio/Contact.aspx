@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Contact Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="Portfolio.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <link href="Content/PageStyle.css" rel="stylesheet" />
     <div class="container">
         <div class="row">
             <div class="col-md-offset-4 col-md-8">
