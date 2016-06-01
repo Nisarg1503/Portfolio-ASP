@@ -18,7 +18,7 @@
                         <address>
                             <strong>Nisarg Patel</strong><br>
                             2 Kozlov st<br>
-                            Barrie, ON L4N 5A1br>
+                            Barrie, ON L4N 5A1<br>
                             <abbr title="Phone">Tel:</abbr>
                             (705)-999-9999
                         </address>
